@@ -11,4 +11,4 @@ function capitalizeSentence(sentence) {
     }
     return words.join(' ');
 }
-console.log('capitalizeSentence("presidio training task sheet") =>', capitalizeSentence('presidio training task sheet'));
+console.log('capitalizeSentence("presidio") =>', capitalizeSentence('presidio'));
